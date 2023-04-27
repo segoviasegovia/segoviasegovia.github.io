@@ -43,3 +43,8 @@ footer{
     }
 
 }
+
+.bg-body-tertiary {
+    --bs-bg-opacity: 1;
+    background-color: black;
+}
