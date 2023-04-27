@@ -8,6 +8,18 @@ footer{
     text-align: center;
 
 }
+#QuienesSomos p{
+    font-family: 'Bruno Ace', cursive;
+    text-align: justify;
+    text-justify: inter-word;
+}
+#QuienesSomos .icon{
+    text-align: center;
+    background-color: aqua;
+    color: ghostwhite;
+}
 h3{
     text-align: center;
+    padding-top: 100px;
+    padding-bottom: 100px;
 }
