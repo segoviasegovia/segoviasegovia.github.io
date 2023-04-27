@@ -35,16 +35,15 @@ footer{
     height: 50px;
     padding-top: 12px;
     text-align: center;
+    color: white;
 
+}
+footer p{
+    font-family: 'Dancing Script', cursive;
 }
 @media (max-width: 768px) { 
     #QuienesSomos {
         display: none;
     }
 
-}
-
-.bg-body-tertiary {
-    
-    background-color: black;
 }
