@@ -37,3 +37,9 @@ footer{
     text-align: center;
 
 }
+@media (max-width: 768px) { 
+    #QuienesSomos {
+        display: none;
+    }
+
+}
